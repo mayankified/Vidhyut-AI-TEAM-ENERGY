@@ -1,0 +1,42 @@
+# ----------------------------------------------------------------------
+# 1. Project Dependencies and Environments (Globally Ignored)
+# ----------------------------------------------------------------------
+
+# Python virtual environments (venv, env, .venv)
+venv/
+env/
+.venv/
+
+# Node.js dependencies
+node_modules/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# ----------------------------------------------------------------------
+# 2. Build and Distribution Artifacts
+# ----------------------------------------------------------------------
+
+# Compiled/bundled JS (often in frontend projects)
+dist/
+build/
+*.log
+
+# ----------------------------------------------------------------------
+# 3. Specific Files/Directories from User List
+# ----------------------------------------------------------------------
+
+# Machine Learning Assets/Archives
+lstm_solar_model_assets.zip
+motor_vibration_model_assets.zip
+
+# Large Project Archives/Backups
+frontend.zip
+next-gen-energy-management-system-dashboardiwithbackedn.zip
+
+# Kaggle-related files
+kaggle/
+kaggle_working_archive.zip
