@@ -1,6 +1,6 @@
 # ⚡ Urja Grid: AI-Powered Smart Energy Management System (EMS)
 
-### 🏆 **Winner / Top Project at Vidhyut AI Hackathon**
+### 🏆 **Project at Vidhyut AI Hackathon**
 | Team Name | Team Members | Repository |
 | :--- | :--- | :--- |
 | **Energy** | Mayank, Dhruv, Ram | [Link to your GitHub Repo] |
