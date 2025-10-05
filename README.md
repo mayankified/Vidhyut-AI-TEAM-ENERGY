@@ -3,7 +3,7 @@
 ### 🏆 **Project at Vidhyut AI Hackathon**
 | Team Name | Team Members | Repository |
 | :--- | :--- | :--- |
-| **Energy** | Mayank, Dhruv, Ram | [Link to your GitHub Repo] |
+| **Energy** | Mayank, Dhruv, Ram | [https://github.com/mayankified/Vidhyut-AI-TEAM-ENERGY] |
 
 ---
 
