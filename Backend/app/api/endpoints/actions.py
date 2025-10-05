@@ -19,7 +19,6 @@ from app.data.mock_data import LAST_SUGGESTION_ACTION
 try:
     llm = ChatOpenAI(
         base_url="https://api.groq.com/openai/v1",
-        # api_key="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",
         model="llama-3.1-8b-instant",  # Or "llama-3.3-70b-versatile" if that's a model you have access to
     )
     print("✅ Llama 3 model on Groq configured successfully.")
